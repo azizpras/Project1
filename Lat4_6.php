@@ -30,6 +30,15 @@ class d implements c
 
 class e implements c
 {
+    public function foo()
+    {
+        
+    }
+    
+    public function bar()
+    {
+     
+    }
     
 }
 
